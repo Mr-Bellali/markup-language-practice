@@ -15,7 +15,7 @@ npm install
 Practice README.md file
 
 ## ICON
-![Project Logo](hassanII.jpj)
+(hassanII.jpj)
 
 ## License
 [Specify the license your project is released under.]
