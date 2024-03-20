@@ -15,7 +15,7 @@ npm install
 Practice README.md file
 
 ## ICON
-![Project Icon]("C:\Users\bilal\OneDrive\Bureau\Simplon\Git_tuto\markup language\hassanII.jpg")
+![Project Icon]("\hassanII.jpg")
 
 ## License
 [Specify the license your project is released under.]
