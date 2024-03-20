@@ -1,0 +1,27 @@
+# Project Name
+
+## Description
+This project is designed to [briefly describe what your project does or its purpose].
+
+## Installation
+1. Clone the repository:
+git clone https://github.com/Mr-Bellali/markup-language-practice.git
+
+3. Install dependencies:
+npm install
+
+
+## Usage
+[Provide instructions on how to use your project. This could include command line usage, API documentation, or any other relevant information.]
+
+## Contributing
+[Explain how others can contribute to your project. This could include guidelines for submitting bug reports, feature requests, or pull requests.]
+
+## License
+[Specify the license your project is released under.]
+
+## Credits
+[List any individuals or organizations you want to credit for their contributions or inspiration.]
+
+## Support
+[Provide contact information or links to resources where users can find support or ask questions about your project.]
